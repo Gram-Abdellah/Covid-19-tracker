@@ -10,4 +10,5 @@ By analyzing infection rates, deaths, and vaccination data, the Covid-19 Tracker
 The Covid-19 Tracker Project offers a comprehensive overview of the pandemic through rigorous data analysis, providing actionable insights to combat the spread of the virus and mitigate its impact. By utilizing SQL, Python, and Tableau Public, this project demonstrates the power of data-driven approaches in understanding and responding to the Covid-19 crisis.
 
 World Health Organization data sources :[Click here](https://covid19.who.int/data)
+
 Tableau public dashboard :[Click here](https://public.tableau.com/app/profile/abdellah4002/viz/Covid19_16855480875580/Infection)
