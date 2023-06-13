@@ -11,4 +11,4 @@ The Covid-19 Tracker Project offers a comprehensive overview of the pandemic thr
 
 World Health Organization data sources :[Click here](https://covid19.who.int/data)
 
-Tableau public dashboard :[Click here]([https://pubn](https://public.tableau.com/views/Covid19_16855480875580/Infection?:language=en-GB&:display_count=n&:origin=viz_share_link))
+Tableau public dashboard :[Click here](https://pubn](https://public.tableau.com/views/Covid19_16855480875580/Infection?:language=en-GB&:display_count=n&:origin=viz_share_link)
